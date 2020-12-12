@@ -1,0 +1,240 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Appetizer"
+    },
+    {
+      "id": 2,
+      "nama": "Main Course"
+    },
+    {
+      "id": 3,
+      "nama": "Dessert"
+    },
+    {
+      "id": 4,
+      "nama": "Drink"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Beer Dip",
+      "harga": 36000,
+      "is_ready": true,
+      "gambar": "beer-dip.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Appetizer"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Anitpasti Bites",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "anitpasti-bites.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Appetizer"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Mini Pizzas",
+      "harga": 32000,
+      "is_ready": true,
+      "gambar": "mini-pizzas.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Appetizer"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Crockpot 7 Layer Bean Dip",
+      "harga": 48000,
+      "is_ready": true,
+      "gambar": "crockpot-7-layer-bean-dip.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Appetizer"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Cauliflower Bolognese",
+      "harga": 53000,
+      "is_ready": true,
+      "gambar": "cauliflower-bolognese.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Main Course"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Grand Aioli",
+      "harga": 50000,
+      "is_ready": true,
+      "gambar": "grand-aioli.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Main Course"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Herb-Crusted Cauliflower Steaks with Beans and Tomatoes",
+      "harga": 54000,
+      "is_ready": true,
+      "gambar": "herb-crusted-cauliflower-steaks-with-beans-and-tomatoes.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Main Course"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Filipino-Style Meatloaf",
+      "harga": 50000,
+      "is_ready": true,
+      "gambar": "filipino-style-meatloaf.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Main Course"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Clam Toasts with Pancetta",
+      "harga": 51000,
+      "is_ready": true,
+      "gambar": "clam-toasts-with-pancetta.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Main Course"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-010",
+      "nama": "Mushroom-Thyme Pot Pies",
+      "harga": 55000,
+      "is_ready": true,
+      "gambar": "mushroom-thyme-pot-pies.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Main Course"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-010",
+      "nama": "Cinnamon-honey creme brulee",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "cinnamon-honey-creme-brulee.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Dessert"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-010",
+      "nama": "Tiramisu",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "tiramisu.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Dessert"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-010",
+      "nama": "Molten Chocolate Pudding",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "molten-chocolate-pudding.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Dessert"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-010",
+      "nama": "Napoleon",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "napoleon.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Dessert"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "K-011",
+      "nama": "Coffe Late",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "coffe-late.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Drink"
+      }
+    },
+    {
+      "id": 16,
+      "kode": "K-012",
+      "nama": "Ice Lemon Tea",
+      "harga": 17000,
+      "is_ready": true,
+      "gambar": "es-jeruk.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Drink"
+      }
+    },
+    {
+      "id": 17,
+      "kode": "K-013",
+      "nama": "Ice Tea",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "es-teh.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Drink"
+      }
+    },
+    {
+      "id": 18,
+      "kode": "K-014",
+      "nama": "Warm Tea",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "teh-hangat.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Drink"
+      }
+    }
+  ],
+  "keranjang": [],
+  "pesanan": []
+}
